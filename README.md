@@ -86,11 +86,11 @@ pip install networkx pandas geopandas matplotlib shapely
 
 ### Figure 1 — Transmission Grid Map (Brazil)
 
-![Placeholder — Brazil transmission vulnerability map](docs/figures/placeholder-brazil-map.png)
+![Placeholder — Brazil transmission vulnerability map](outputs/figures/placeholder-brazil-map.png)
 
 ### Figure 2 — Cascading Failure / Centrality Impact
 
-![Placeholder — Cascade simulation graph](docs/figures/placeholder-cascade-graph.png)
+![Placeholder — Cascade simulation graph](outputs/figures/placeholder-cascade-graph.png)
 
 ## Known Limitations
 
